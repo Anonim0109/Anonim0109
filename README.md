@@ -1,6 +1,5 @@
 YİNE MERHABA
 
-<!--
 **Anonim0109/Anonim0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ✔✔👀🎂✨ eklemek
--->
+ <img src="https://www.kodkampusu.com/wp-content/uploads/2021/01/html-resim-ekleme-link.png"/>
