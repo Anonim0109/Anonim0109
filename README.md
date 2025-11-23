@@ -1,4 +1,4 @@
-## Hi there 👋
+YİNE MERHABA
 
 <!--
 **Anonim0109/Anonim0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
